@@ -14,7 +14,7 @@ int main()
     cin>>b;
     cout<<"Enter a for addition"<<endl;
     cout<<"Enter b for subtraction"<<endl;
-    cout<<"Enter c for multiplivation"<<endl;
+    cout<<"Enter c for multiplication"<<endl;
     cout<<"Enter d for division"<<endl;
     cin>>ch;
 
@@ -36,5 +36,5 @@ cout<<"a/b="<<a/b<<endl;
 
 else
 cout<<"invalid"<<endl;
-
+return 0;
 }
